@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Exploring Techniques for Detecting GAN-Generated Images",
+    "imageSrc": "projects/project.png",
+    "description": "RGB image channels are individually transformed using Fast Fourier Transform (FFT), then shifted to center and normalized. Transformed channels replace original ones, and images are fed into a deep network for classification",
+    "skills": ["Tensorflow", "OpenCV", "Matplotlib"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/arav28/GAN_Detection"
+  },
+  {
+    "title": "Diabetic Retinopathy detection and Heart disease Prediction",
+    "imageSrc": "projects/project.png",
+    "description": "Implemented CNN, to achieve an accuracy of 95.6% in detecting Diabetic Retinopathy.",
+    "skills": ["Tensorflow", "OpenCV", "Matplotlib"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/arav28/retinopathy"
+  },
+  {
+    "title": "Steel Defect Detection and Classification",
+    "imageSrc": "projects/project.png",
+    "description": "Provided an effective and robust approach to detect metal defects using Semantic Segmentation (UNet architecture) and classify the same using CNN, and created web application for the same using FLASK API",
+    "skills": ["Tensorflow", "OpenCV", "Matplotlib"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/arav28/Steel-defect-detection"
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "role": "Graduate Student",
+    "organisation": "Indiana University Bloomington",
+    "startDate": "Jan, 2023",
+    "endDate": "present",
+    "experiences": [
+      "Applied Algorithms",
+      "Software Engineering",
+      "Advanced Database Concepts",
+      "Computer Vision",
+      "Machine Learning in Bioinformatics"
+    ],
+    "imageSrc": "history/indiana.png"
+  },
+  {
+    "role": "Software Engineer",
+    "organisation": "Optum",
+    "startDate": "Aug, 2020",
+    "endDate": "Dec, 2022",
+    "experiences": ["Developed and optimized REST-based web microservices using Java, SpringBoot, and Angular (Typescript)", "Applied reactive programming, Java 8's lambda expressions for asynchronous and event-driven applications"],
+    "imageSrc": "history/optum.png"
+  },
+  {
+    "role": "Data Science intern",
+    "organisation": "Philips Healthcare",
+    "startDate": "May, 2019",
+    "endDate": "July, 2019",
+    "experiences": ["Developed NLP-based Python applications for a health-related project aimed at optimizing Quality Assurance and testing operations.", "Specialized in breast cancer screening, focusing on ML-Ops pipeline development and fine-tuning of machine learning models to enhance diagnostic accuracy"],
+    "imageSrc": "history/philips.png"
+  }
+ 
+]

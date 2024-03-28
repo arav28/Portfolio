@@ -1,0 +1,15 @@
+REACT JS tips:
+
+1. rafc to boiler plate code
+2. use vite
+3. figma for dev icon and comp tools
+4. App.module.css instead of app.css
+5. npm create vite@latest
+npm install @fontsource/roboto @fontsource/outfit
+
+6.<link rel="icon" type="image/png" href="/favicon.ico" />
+
+7.
+
+
+https://portfoliosde.netlify.app
