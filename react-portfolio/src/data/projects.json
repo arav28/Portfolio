@@ -2,18 +2,18 @@
   {
     "title": "Exploring Techniques for Detecting GAN-Generated Images",
     "imageSrc": "projects/project.png",
-    "description": "RGB image channels are individually transformed using Fast Fourier Transform (FFT), then shifted to center and normalized. Transformed channels replace original ones, and images are fed into a deep network for classification",
+    "description": "Developed a robust technique to detect GAN-generated images by identifying unique artifacts that are not typically present in authentic images. Applied Fast Fourier Transform (FFT) to the RGB channels of images to extract frequency domain features. Leveraged a neural network to classify images based on these features, effectively highlighting distinct patterns of GAN-generated content",
     "skills": ["Tensorflow", "OpenCV", "Matplotlib"],
     "demo": "https://www.example.com",
     "source": "https://github.com/arav28/GAN_Detection"
   },
   {
-    "title": "Diabetic Retinopathy detection and Heart disease Prediction",
+    "title": "HPASS Rentals Management System",
     "imageSrc": "projects/project.png",
-    "description": "Implemented CNN, to achieve an accuracy of 95.6% in detecting Diabetic Retinopathy.",
-    "skills": ["Tensorflow", "OpenCV", "Matplotlib"],
+    "description": "Developed administrative and owner dashboards for data visualization and trend analysis. Integrated multimedia upload capabilities for enhanced communication and transparency. Established an automated chatbot for 24/7 customer service support, improving response time. Designed a robust API gateway to manage communication between microservices, ensuring seamless interaction and load balancing.",
+    "skills": ["ReactJS", "Node.JS", "MongoDB", "Github Actions(CI/CD)"], 
     "demo": "https://www.example.com",
-    "source": "https://github.com/arav28/retinopathy"
+    "source": "https://github.com/seteam19/se_team19_car_rental_management_system"
   },
   {
     "title": "Steel Defect Detection and Classification",

@@ -8,10 +8,8 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Aravind!</h1>
         <p className={styles.description}>
-          I design and code beautifully simple things, and I love what I do.
-          I'm quietly confident, endlessly curious, and constantly refining
-          my craft, I'm all about creating digital solutions that make a real
-          impact.
+        I'm a Master's student in Computer Science at Indiana University. With a focus on full-stack development, I have practical experience in Java, .NET, 
+        and cloud technologies. My background includes developing scalable microservices, optimizing performance, and managing complex projects.
         </p>
         <a className={styles.contactBtn} href="mailto:aruve28@gmail.com">
           Get in touch

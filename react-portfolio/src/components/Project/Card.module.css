@@ -21,8 +21,10 @@
 
 .description {
   margin-top: 6px;
-  font-size: 25px;
+  font-size: 18px; /* Adjust font size as needed */
   font-weight: 400;
+  padding-left: 20px; /* Add padding to move bullet points right */
+  list-style-type: disc; /* Ensure bullet points are visible */
 }
 
 .skills {

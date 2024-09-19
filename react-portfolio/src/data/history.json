@@ -1,17 +1,19 @@
 [
   {
-    "role": "Graduate Student",
+    "role": "Graduate Teaching Assistant",
     "organisation": "Indiana University Bloomington",
-    "startDate": "Jan, 2023",
-    "endDate": "present",
-    "experiences": [
-      "Applied Algorithms",
-      "Software Engineering",
-      "Advanced Database Concepts",
-      "Computer Vision",
-      "Machine Learning in Bioinformatics"
-    ],
+    "startDate": "Aug, 2024",
+    "endDate": "Present",
+    "experiences": ["Conduct recitations and lab sessions focused on database models (hierarchical, network, relational, object-oriented), query processing, and efficient data access structures."],
     "imageSrc": "history/indiana.png"
+  },
+  {
+    "role": "SDE Intern",
+    "organisation": "Sun Hydraulics",
+    "startDate": "May, 2024",
+    "endDate": "Aug, 2024",
+    "experiences": ["Developed a full-stack application using C#, VB.NET and SQL Server to optimize the shipping process, improving efficiency.", "Reduced packing time by 28% and errors by 40%, leading to a potential cost improvement of $89 million per year."],
+    "imageSrc": "history/sunHydraulics.png"
   },
   {
     "role": "Software Engineer",

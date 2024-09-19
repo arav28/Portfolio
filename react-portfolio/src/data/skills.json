@@ -4,6 +4,10 @@
     "imageSrc": "skills/springBoot.png"
   },
   {
+    "title": "Reactive Spring",
+    "imageSrc": "skills/webflux.png"
+  },
+  {
     "title": "React",
     "imageSrc": "skills/react.png"
   },
@@ -12,12 +16,16 @@
     "imageSrc": "skills/maven.svg"
   },
   {
-    "title": "PostgresSQL",
+    "title": "Apache Kafka",
+    "imageSrc": "skills/kafka.png"
+  },
+  {
+    "title": "PostgreSQL",
     "imageSrc": "skills/postgres.png"
   },
   {
-    "title": "TensorFlow",
-    "imageSrc": "skills/tensorflow.png"
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
   },
   {
     "title": "Mockito",
@@ -27,8 +35,17 @@
     "title": "Docker",
     "imageSrc": "skills/docker.png"
   },
+  
   {
-    "title": "Reactive Spring",
-    "imageSrc": "skills/webflux.png"
+    "title": "C#",
+    "imageSrc": "skills/csharp.png"
+  },
+  {
+    "title": ".Net",
+    "imageSrc": "skills/dotNet.png"
+  },
+  {
+    "title": "Angular",
+    "imageSrc": "skills/Angular.png"
   }
 ]
