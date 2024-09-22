@@ -23,7 +23,7 @@
 }
 
 .skills {
-  width: 25%;
+  width: 30%;
   display: flex;
   flex-wrap: wrap;
   gap: 37px; /* Space between items */
@@ -67,18 +67,18 @@
 
 .historyItem {
   display: flex;
-  flex-direction: row;
-  align-items: center;
-  gap: 17px;
-  background: #19376d;
+  flex-direction: column; /* Change to column to stack items */
+  align-items: flex-start; /* Align items to the left */
   background: linear-gradient(90deg, #19376d 0%, rgba(25, 55, 109, 0) 100%);
   border-radius: 10px;
   padding: 24px;
+  overflow: hidden; /* Ensure content stays within bounds */
 }
 
 .historyItem img {
-  width: 100px;
-  height: auto; /* Maintain aspect ratio */
+  width: 100px; /* Adjusted size for mobile */
+  height: 100px; /* Maintain aspect ratio */
+  margin-bottom: 10px; /* Space between image and text */
 }
 
 .historyItemDetails {
@@ -120,5 +120,14 @@
   .history {
     width: 100%;
     gap: 9px;
+  }
+
+  .historyItemDetails h3,
+  .historyItemDetails p {
+    font-size: 20px; /* Adjust font size for smaller screens */
+  }
+
+  .historyItemDetails ul {
+    font-size: 20px; /* Adjust font size for smaller screens */
   }
 }

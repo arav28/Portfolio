@@ -4,7 +4,12 @@
     "organisation": "Indiana University Bloomington",
     "startDate": "Aug, 2024",
     "endDate": "Present",
-    "experiences": ["Conduct recitations and lab sessions focused on database models (hierarchical, network, relational, object-oriented), query processing, and efficient data access structures."],
+    "experiences": [
+      "Conduct recitations and lab sessions focused on database models (hierarchical, network, relational, object-oriented), query processing, and efficient data access structures.",
+      "Grade assignments and exams on database design, application development, security, concurrency, and recovery.",
+      "Provide one-on-one support during office hours to help students grasp complex topics like query languages, database views, and transaction management.",
+      "Assist in creating and updating educational materials, including lecture notes, assignments, and projects on essential database concepts."
+    ],
     "imageSrc": "history/indiana.png"
   },
   {
@@ -12,7 +17,13 @@
     "organisation": "Sun Hydraulics",
     "startDate": "May, 2024",
     "endDate": "Aug, 2024",
-    "experiences": ["Developed a full-stack application using C#, VB.NET and SQL Server to optimize the shipping process, improving efficiency.", "Reduced packing time by 28% and errors by 40%, leading to a potential cost improvement of $89 million per year."],
+    "experiences": [
+      "Developed a full-stack application using C#, VB.NET, and SQL Server to optimize the shipping process, improving efficiency.",
+      "Engineered an algorithm to evaluate and select optimal box dimensions by analyzing item dimensions, weight distribution, and order prioritization.",
+      "Maintained and managed the life cycle of the application through discovery, prototyping, creation, testing, deployment to production, and post-production maintenance.",
+      "Established procedures to handle discrepancies in part weights, minimizing packing errors and delays.",
+      "Reduced packing time by 28% and errors by 40%, leading to a potential cost improvement of $89 million per year."
+    ],
     "imageSrc": "history/sunHydraulics.png"
   },
   {
@@ -20,7 +31,12 @@
     "organisation": "Optum",
     "startDate": "Aug, 2020",
     "endDate": "Dec, 2022",
-    "experiences": ["Developed and optimized REST-based web microservices using Java, SpringBoot, and Angular (Typescript)", "Applied reactive programming, Java 8's lambda expressions for asynchronous and event-driven applications"],
+    "experiences": [
+      "Faced with unreliable status updates during PDF downloads, implemented a polling mechanism to monitor status changes (pending, success, or failed), improving download reliability and enhancing user experience by 25%.",
+      "Developed secure RESTful APIs and repository methods using Spring WebFlux to enforce security protocols for distinguished user accounts, ensuring a reactive and efficient system.",
+      "Integrated Debezium source and sync connectors for real-time data synchronization across distributed systems, resulting in a 25% faster page load time for a high-traffic website, ultimately improving user experience.",
+      "Acquired significant healthcare domain experience, handling sensitive patient data while ensuring compliance with HIPAA and FDA regulations. Showcased adaptability in using diverse technologies to meet project and compliance requirements."
+    ],
     "imageSrc": "history/optum.png"
   },
   {

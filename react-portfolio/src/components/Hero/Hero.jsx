@@ -6,7 +6,7 @@ export const Hero = () => {
   return (
     <section className={styles.container}>
       <div className={styles.content}>
-        <h1 className={styles.title}>Hi, I'm Aravind!</h1>
+        <h1 className={styles.title}>Hi!, I'm Aravind</h1>
         <p className={styles.description}>
         I'm a Master's student in Computer Science at Indiana University. With a focus on full-stack development, I have practical experience in Java, .NET, 
         and cloud technologies. My background includes developing scalable microservices, optimizing performance, and managing complex projects.
